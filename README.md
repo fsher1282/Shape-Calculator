@@ -17,7 +17,7 @@ This project is a simple C++ application that demonstrates the use of Object-Ori
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://yourrepositorylink.git
+   git clone https://github.com/fsher1282/Shape-Calculator
    ```
    
    
